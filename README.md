@@ -5,6 +5,7 @@ A simple shell script to update an existing repository
 
   - I am making an ecommerce website and I got tired of typing in commands after a change so I made a script to do the work for me.
   - This script accepts a mesage and uploads everything in the existing directory where it was run
+  - I made a cronjob to be updating  my code of the ecommerce website every 30 minutes:)
 
 
 ### Prerequisite
